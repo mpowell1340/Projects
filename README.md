@@ -1,10 +1,10 @@
-#Projects<br/>
+# Projects<br/>
 <br/>
-##- 👋 Hi, I’m @mpourag@gmail.com<br/>
-##- 👀 I’m interested in ...<br/>
-##- 🌱 I’m currently learning ...<br/>
-##- 💞️ I’m looking to collaborate on ...<br/>
-##- 📫 Reach me at mpourag@gmail.com<br/>
+- 👋 Hi, I’m @mpourag@gmail.com<br/>
+- 👀 I’m interested in ...<br/>
+- 🌱 I’m currently learning ...<br/>
+- 💞️ I’m looking to collaborate on ...<br/>
+- 📫 Reach me at mpourag@gmail.com<br/>
 <br/>
 <br/>
 <!---
